@@ -202,7 +202,7 @@ uint32_t read_battery(){
 int main(void)
 {
   /* USER CODE BEGIN 1 */
-
+	// GIT TEST
   /* USER CODE END 1 */
 
   /* MCU Configuration--------------------------------------------------------*/
